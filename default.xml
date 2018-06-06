@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote  name="empear-analytics" fetch=".." />
+  <default remote="empear-analytics" revision="master" sync-s="true" sync-j="4" sync-c="true" />
+
+  <project name="codescene-jenkins-plugin" path="codescene-jenkins" />
+
+  <project name="codescene-enterprise-pm-jira" path="codescene-jira" />
+
+</manifest>
+
